@@ -1,0 +1,84 @@
+{
+  "HPMax": 0,
+  "HPNow": 0,
+  "HitDice": 0,
+  "ability": {
+    "charisma": 0,
+    "constitution": 0,
+    "dexterity": 0,
+    "intelligence": 0,
+    "strength": 0,
+    "wisdom": 0
+  },
+  "armorClass": 0,
+  "attacksAndSpells": "",
+  "bonds": "",
+  "character": {
+    "aligment": "",
+    "background": "aaa",
+    "class": "Fighter",
+    "name": "",
+    "playerName": "",
+    "race": "asdasd",
+    "xp": 0
+  },
+  "equipment": {
+    "CP": 0,
+    "EP": 0,
+    "GP": 0,
+    "Name": "",
+    "PP": 0,
+    "SP": 0
+  },
+  "failures": {
+    "1": false,
+    "2": false,
+    "3": false
+  },
+  "featuresAndTraits": "",
+  "flaws": "",
+  "ideals": "",
+  "initiative": 0,
+  "inspiration": 0,
+  "notes": "",
+  "otherProficienciesAndLanguage": "",
+  "passiveWisdom": 0,
+  "personalityTraits": "",
+  "proficiencyBonus": 0,
+  "savingThrows": {
+    "charisma": 0,
+    "constitution": 0,
+    "dexterity": 0,
+    "intelligence": 0,
+    "strength": 0,
+    "wisdom": 0
+  },
+  "skills": {
+    "acrobatics": 0,
+    "animal": 0,
+    "arcana": 0,
+    "athletics": 0,
+    "deception": 0,
+    "history": 0,
+    "insight": 0,
+    "intimidation": 0,
+    "investigation": 0,
+    "medicine": 0,
+    "nature": 0,
+    "perception": 0,
+    "performance": 0,
+    "persuasion": 0,
+    "religion": 0,
+    "sleightOfHand": 0,
+    "stelth": 0,
+    "survival": 0
+  },
+  "speed": 0,
+  "successses": {
+    "1": false,
+    "2": false,
+    "3": false
+  },
+  "temporaryHP": 0,
+  "totalHitDice": ""
+}
